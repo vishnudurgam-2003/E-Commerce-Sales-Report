@@ -1,3 +1,4 @@
+<img width="718" height="382" alt="Sales Dashboards" src="https://github.com/user-attachments/assets/67df222d-fee8-4788-b66c-b26d2aba31e3" />
 Ecommerce Sales & Customer Satisfaction Analysis
 
 📌 Project Overview
